@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-**0x7v11co** is an advanced, modular web vulnerability scanner designed for academic research and professional security assessments. It combines a modern, high-performance CLI with detailed HTML/JSON reporting to identify critical security flaws in web applications.
+**0x7v11co** is a modular web vulnerability scanner designed for academic research and professional security assessments. It combines a modern, high-performance CLI with detailed HTML/JSON reporting to identify critical security flaws in web applications.
 
 ---
 
