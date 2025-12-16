@@ -1,0 +1,5 @@
+Type,Severity,Description,URL,Payload,Evidence,PoC
+Missing Security Header,Medium,The header 'X-Frame-Options' is missing from the response.,http://example.com,,,
+Missing Security Header,High,The header 'Content-Security-Policy' is missing from the response.,http://example.com,,,
+Missing Security Header,High,The header 'Strict-Transport-Security' is missing from the response.,http://example.com,,,
+Missing Security Header,Low,The header 'X-Content-Type-Options' is missing from the response.,http://example.com,,,

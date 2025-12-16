@@ -1,0 +1,42 @@
+{
+    "scan_date": "2025-12-06T13:52:52.687831",
+    "total_issues": 4,
+    "vulnerabilities": [
+        {
+            "type": "Missing Security Header",
+            "description": "The header 'X-Frame-Options' is missing from the response.",
+            "severity": "Medium",
+            "url": "http://example.com",
+            "payload": null,
+            "evidence": null,
+            "poc": null
+        },
+        {
+            "type": "Missing Security Header",
+            "description": "The header 'Content-Security-Policy' is missing from the response.",
+            "severity": "High",
+            "url": "http://example.com",
+            "payload": null,
+            "evidence": null,
+            "poc": null
+        },
+        {
+            "type": "Missing Security Header",
+            "description": "The header 'Strict-Transport-Security' is missing from the response.",
+            "severity": "High",
+            "url": "http://example.com",
+            "payload": null,
+            "evidence": null,
+            "poc": null
+        },
+        {
+            "type": "Missing Security Header",
+            "description": "The header 'X-Content-Type-Options' is missing from the response.",
+            "severity": "Low",
+            "url": "http://example.com",
+            "payload": null,
+            "evidence": null,
+            "poc": null
+        }
+    ]
+}
