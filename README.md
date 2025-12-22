@@ -1,4 +1,4 @@
-# 0x7v11co 🛡️
+# 0x7v11co 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,30 +8,30 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔍 Vulnerability Detection
+### Vulnerability Detection
 - **SQL Injection (SQLi)**: Detects error-based and boolean-based injection flaws with PoC generation
 - **Cross-Site Scripting (XSS)**: Identifies reflected XSS vulnerabilities in forms and parameters
 - **Local File Inclusion (LFI)**: Checks for path traversal and file inclusion issues
 - **Security Headers**: Analyzes missing or misconfigured HTTP security headers
 - **WordPress Enumeration**: Detects WP installations, versions, and user enumeration
 
-### 🕵️ Reconnaissance
+### Reconnaissance
 - **Proxy & WAF Detection**: Identifies reverse proxies (Cloudflare, Akamai, Nginx, etc.)
 - **Subdomain Enumeration**: Discovers subdomains associated with the target
 - **Port Scanning**: Checks for open common web ports
 - **Directory Enumeration**: Brute-forces common directory paths
 - **Web Crawling**: Recursively discovers pages and forms
 
-### ⚡ Advanced Capabilities
+### Advanced Capabilities
 - **Modern CLI**: Beautiful terminal UI with ASCII art, progress bars, and live status
 - **High Performance**: Multi-threaded architecture for simultaneous scanning
 - **Authentication**: Support for session cookies to scan authenticated areas
 - **Input Fuzzing**: Fuzzes forms and parameters to trigger server errors
 - **PoC Generation**: Automatically generates exploit URLs and cURL commands
 
-### 📊 Reporting
+### Reporting
 - **Interactive HTML Dashboard**: Dark-mode, responsive report with grouped findings
 - **JSON Export**: Raw data export for integration with other tools
 - **OWASP Mapping**: Findings mapped to OWASP Top 10 (2021)
